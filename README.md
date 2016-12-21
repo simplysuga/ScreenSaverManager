@@ -1,2 +1,2 @@
 # ScreenSaverManager
-ScreenSaverManager - SSM is a simple tool to prevent policy-enforced screen lock
+ScreenSaverManager - SSM is a simple tool to prevent policy-enforced screen lock in Windows systems.
